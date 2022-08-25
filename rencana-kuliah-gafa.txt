@@ -3,7 +3,8 @@ RENCANA KULIAH GAFA KEDEPANNYA
 - Mengajukan judul skripsi dengan baik
   * usahakan yang betul-betul dikuasai
   * dengan bahasa pemrograman yang dikuasai juga
-    ^ Laravel
-    ^ Boostrap
+    ^ PHP Native
+    ^ Framework Bootsrap
 - Menjalankan bimbingan skripsi dengan sungguh-sungguh
 - Menyelesaikan semua yang telah dimulai
+- Selalu berdoa
